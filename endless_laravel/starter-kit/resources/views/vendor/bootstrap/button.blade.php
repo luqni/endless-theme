@@ -1,0 +1,1 @@
+<button class="{{@$class}}" id="{{@$id}}" type="{{@$type}}" {{@$extra}}>{{@$slot}}</button>

@@ -1,0 +1,2 @@
+ <?php echo $__env->yieldContent('scripts'); ?>
+<?php /**PATH /home/luqni/Downloads/themeforest-ulDXptNe-endless-bootstrap-4-admin-template/endless_laravel/endless-ltr/resources/views/errors/layouts/script.blade.php ENDPATH**/ ?>

@@ -1,0 +1,1 @@
+<?php /**PATH C:\wamp64\www\starter-kit\resources\views/footervarview.blade.php ENDPATH**/ ?>

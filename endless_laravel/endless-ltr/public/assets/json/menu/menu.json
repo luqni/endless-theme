@@ -1,0 +1,1679 @@
+[
+   {
+      "text":"Blade Components",
+      "href":"/blade-components",
+      "icon":"menu",
+      "target":"_self",
+      "title":"Blade Components"
+   },
+   {
+      "text":"Dashboard",
+      "href":"#",
+      "icon":"home",
+      "target":"_top",
+      "title":"Dashboard",
+      "children":[
+         {
+            "text":"Default",
+            "href":"/dashboard/default",
+            "icon":"",
+            "target":"_self",
+            "title":"Default"
+         },
+         {
+            "text":"E-Commerce",
+            "href":"/dashboard/e-commerce",
+            "icon":"",
+            "target":"_self",
+            "title":"E-Commerce"
+         },
+         {
+            "text":"University",
+            "href":"/dashboard/university",
+            "icon":"",
+            "target":"_self",
+            "title":"University"
+         },
+         {
+            "text":"Crypto",
+            "href":"/dashboard/crypto",
+            "icon":"",
+            "target":"_self",
+            "title":"Crypto"
+         },
+         {
+            "text":"Server",
+            "href":"/dashboard/server",
+            "icon":"",
+            "target":"_self",
+            "title":"Server"
+         },
+         {
+            "text":"Project Dashboard",
+            "href":"/dashboard/project",
+            "icon":"",
+            "target":"_self",
+            "title":"Project Dashboard"
+         }
+      ]
+   },
+   {
+      "text":"Widgets",
+      "href":"#",
+      "icon":"airplay",
+      "target":"_top",
+      "title":"Widgets",
+      "children":[
+         {
+            "text":"General Widget",
+            "href":"/widgets/general-widget",
+            "icon":"",
+            "target":"_self",
+            "title":"General Widget"
+         },
+         {
+            "text":"Chart Widget",
+            "href":"/widgets/chart-widget",
+            "icon":"",
+            "target":"_self",
+            "title":"Chart Widget"
+         }
+      ]
+   },
+   {
+      "text":"Base",
+      "href":"#",
+      "icon":"box",
+      "target":"_top",
+      "title":"Base",
+      "children":[
+         {
+            "text":"State color",
+            "href":"/base/state-color",
+            "icon":"",
+            "target":"_self",
+            "title":"State color"
+         },
+         {
+            "text":"Typography",
+            "href":"/base/typography",
+            "icon":"",
+            "target":"_self",
+            "title":"Typography"
+         },
+         {
+            "text":"Avatars",
+            "href":"/base/avatars",
+            "icon":"",
+            "target":"_self",
+            "title":"Avatars"
+         },
+         {
+            "text":"Helper classes",
+            "href":"/base/helper-classes",
+            "icon":"",
+            "target":"_self",
+            "title":"Helper classes"
+         },
+         {
+            "text":"Grid",
+            "href":"/base/grid",
+            "icon":"",
+            "target":"_self",
+            "title":"Grid"
+         },
+         {
+            "text":"Tag & pills",
+            "href":"/base/tag-pills",
+            "icon":"",
+            "target":"_self",
+            "title":"Tag & pills"
+         },
+         {
+            "text":"Progress",
+            "href":"/base/progress-bar",
+            "icon":"",
+            "target":"_self",
+            "title":"Progress"
+         },
+         {
+            "text":"Modal",
+            "href":"/base/modal",
+            "icon":"",
+            "target":"_self",
+            "title":"Modal"
+         },
+         {
+            "text":"Alert",
+            "href":"/base/alert",
+            "icon":"",
+            "target":"_self",
+            "title":"Typography"
+         },
+         {
+            "text":"Popover",
+            "href":"/base/popover",
+            "icon":"",
+            "target":"_self",
+            "title":"Popover"
+         },
+         {
+            "text":"Tooltip",
+            "href":"/base/tooltip",
+            "icon":"",
+            "target":"_self",
+            "title":"Tooltip"
+         },
+         {
+            "text":"Spinners",
+            "href":"/base/loader",
+            "icon":"",
+            "target":"_self",
+            "title":"Spinners"
+         },
+         {
+            "text":"Dropdown",
+            "href":"/base/dropdown",
+            "icon":"",
+            "target":"_self",
+            "title":"Dropdown"
+         },
+         {
+            "text":"Tabs",
+            "href":"#",
+            "icon":"alert-triangle",
+            "target":"_self",
+            "title":"Tabs",
+            "children":[
+               {
+                  "text":"Bootstrap Tabs",
+                  "href":"/base/tab-bootstrap",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Bootstrap Tabs"
+               },
+               {
+                  "text":"Line Tabs",
+                  "href":"/base/tab-material",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Line Tabs"
+               }
+            ]
+         },
+         {
+            "text":"Accordion",
+            "href":"/base/according",
+            "icon":"",
+            "target":"_self",
+            "title":"Accordion"
+         },
+         {
+            "text":"Navs",
+            "href":"/base/navs",
+            "icon":"",
+            "target":"_self",
+            "title":"Navs"
+         },
+         {
+            "text":"Shadow",
+            "href":"/base/box-shadow",
+            "icon":"",
+            "target":"_self",
+            "title":"Shadow"
+         },
+         {
+            "text":"Lists",
+            "href":"/base/list",
+            "icon":"",
+            "target":"_self",
+            "title":"Lists"
+         }
+      ]
+   },
+   {
+      "text":"Advance",
+      "href":"#",
+      "icon":"folder-plus",
+      "target":"_top",
+      "title":"Advance",
+      "children":[
+         {
+            "text":"Scrollable",
+            "href":"/advance/scrollable",
+            "icon":"",
+            "target":"_self",
+            "title":"Scrollable"
+         },
+         {
+            "text":"Tree view",
+            "href":"/advance/tree",
+            "icon":"",
+            "target":"_self",
+            "title":"Tree view"
+         },
+         {
+            "text":"Bootstrap Notify",
+            "href":"/advance/bootstrap-notify",
+            "icon":"",
+            "target":"_self",
+            "title":"Bootstrap Notify"
+         },
+         {
+            "text":"Rating",
+            "href":"/advance/rating",
+            "icon":"",
+            "target":"_self",
+            "title":"Rating"
+         },
+         {
+            "text":"Dropzone",
+            "href":"/advance/dropzone",
+            "icon":"",
+            "target":"_self",
+            "title":"Dropzone"
+         },
+         {
+            "text":"Tour",
+            "href":"/advance/tour",
+            "icon":"",
+            "target":"_self",
+            "title":"Tour"
+         },
+         {
+            "text":"SweetAlert2",
+            "href":"/advance/sweet-alert2",
+            "icon":"",
+            "target":"_self",
+            "title":"SweetAlert2"
+         },
+         {
+            "text":"Animated Modal",
+            "href":"/advance/modal-animated",
+            "icon":"",
+            "target":"_self",
+            "title":"Animated Modal"
+         },
+         {
+            "text":"Owl Carousel",
+            "href":"/advance/owl-carousel",
+            "icon":"",
+            "target":"_self",
+            "title":"Owl Carousel"
+         },
+         {
+            "text":"Ribbons",
+            "href":"/advance/ribbons",
+            "icon":"",
+            "target":"_self",
+            "title":"Ribbons"
+         },
+         {
+            "text":"Pagination",
+            "href":"/advance/pagination",
+            "icon":"",
+            "target":"_self",
+            "title":"Pagination"
+         },
+         {
+            "text":"Steps",
+            "href":"/advance/steps",
+            "icon":"",
+            "target":"_self",
+            "title":"Steps"
+         },
+         {
+            "text":"Breadcrumb",
+            "href":"/advance/breadcrumb",
+            "icon":"",
+            "target":"_self",
+            "title":"Breadcrumb"
+         },
+         {
+            "text":"Range Slider",
+            "href":"/advance/range-slider",
+            "icon":"",
+            "target":"_self",
+            "title":"Range Slider"
+         },
+         {
+            "text":"Image cropper",
+            "href":"/advance/image-cropper",
+            "icon":"",
+            "target":"_self",
+            "title":"Image cropper"
+         },
+         {
+            "text":"Sticky",
+            "href":"/advance/sticky",
+            "icon":"",
+            "target":"_self",
+            "title":"Sticky"
+         }
+      ]
+   },
+   {
+      "text":"Animation",
+      "href":"#",
+      "icon":"cloud-drizzle",
+      "target":"_top",
+      "title":"Animation",
+      "children":[
+         {
+            "text":"Animate",
+            "href":"/animation/animate",
+            "icon":"",
+            "target":"_self",
+            "title":"Animate"
+         },
+         {
+            "text":"Scroll Reveal",
+            "href":"/animation/scroll-reveal",
+            "icon":"",
+            "target":"_self",
+            "title":"Scroll Reveal"
+         },
+         {
+            "text":"AOS Animation",
+            "href":"/animation/aos",
+            "icon":"",
+            "target":"_self",
+            "title":"AOS Animation"
+         },
+         {
+            "text":"Tilt",
+            "href":"/animation/tilt",
+            "icon":"",
+            "target":"_self",
+            "title":"Tilt Animation"
+         },
+         {
+            "text":"Wow Animation",
+            "href":"/animation/wow",
+            "icon":"",
+            "target":"_self",
+            "title":"Wow Animation"
+         }
+      ]
+   },
+   {
+      "text":"Icons",
+      "href":"#",
+      "icon":"command",
+      "target":"_top",
+      "title":"Icons",
+      "children":[
+         {
+            "text":"Flag icon",
+            "href":"/icons/flag-icon",
+            "icon":"",
+            "target":"_self",
+            "title":"Flag icon"
+         },
+         {
+            "text":"Fontawesome Ico",
+            "href":"/icons/font-awesome",
+            "icon":"",
+            "target":"_self",
+            "title":"Fontawesome Ico"
+         },
+         {
+            "text":"Ico Icon",
+            "href":"/icons/ico-icon",
+            "icon":"",
+            "target":"_self",
+            "title":"Ico Icon"
+         },
+         {
+            "text":"Thimify Icon",
+            "href":"/icons/themify-icon",
+            "icon":"",
+            "target":"_self",
+            "title":"Thimify Icon"
+         },
+         {
+            "text":"Feather icon",
+            "href":"/icons/feather-icon",
+            "icon":"",
+            "target":"_self",
+            "title":"Feather icon"
+         },
+         {
+            "text":"Whether Icon",
+            "href":"/icons/whether-icon",
+            "icon":"",
+            "target":"_self",
+            "title":"Whether Icon"
+         }
+      ]
+   },
+   {
+      "text":"Buttons",
+      "href":"#",
+      "icon":"cloud",
+      "target":"_top",
+      "title":"Buttons",
+      "children":[
+         {
+            "text":"Default Style",
+            "href":"/buttons/buttons",
+            "icon":"",
+            "target":"_self",
+            "title":"Default Style"
+         },
+         {
+            "text":"Flat Style",
+            "href":"/buttons/buttons-flat",
+            "icon":"",
+            "target":"_self",
+            "title":"Flat Style"
+         },
+         {
+            "text":"Edge Style",
+            "href":"/buttons/buttons-edge",
+            "icon":"",
+            "target":"_self",
+            "title":"Edge Style"
+         },
+         {
+            "text":"Raised Style",
+            "href":"/buttons/raised-button",
+            "icon":"",
+            "target":"_self",
+            "title":"Raised Style"
+         },
+         {
+            "text":"Button Group",
+            "href":"/buttons/button-group",
+            "icon":"",
+            "target":"_self",
+            "title":"Button Group"
+         }
+      ]
+   },
+   {
+      "text":"Forms",
+      "href":"#",
+      "icon":"file-text",
+      "target":"_top",
+      "title":"Forms",
+      "children":[
+         {
+            "text":"Form Controls",
+            "href":"#",
+            "icon":"",
+            "target":"_self",
+            "title":"Form Controls",
+            "children":[
+               {
+                  "text":"Form Validation",
+                  "href":"/form-controls/form-validation",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Form Validation"
+               },
+               {
+                  "text":"Base Inputs",
+                  "href":"/form-controls/base-input",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Base Inputs"
+               },
+               {
+                  "text":"Checkbox & Radio",
+                  "href":"/form-controls/radio-checkbox-control",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Checkbox & Radio"
+               },
+               {
+                  "text":"Input Groups",
+                  "href":"/form-controls/input-group",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Input Groups"
+               },
+               {
+                  "text":"Mega Options",
+                  "href":"/form-controls/megaoptions",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Mega Options"
+               }
+            ]
+         },
+         {
+            "text":"Form Widgets",
+            "href":"#",
+            "icon":"",
+            "target":"_self",
+            "title":"Form Widgets",
+            "children":[
+               {
+                  "text":"Datepicker",
+                  "href":"/form-widgets/datepicker",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Datepicker"
+               },
+               {
+                  "text":"Timepicker",
+                  "href":"/form-widgets/time-picker",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Timepicker"
+               },
+               {
+                  "text":"Datetimepicker",
+                  "href":"/form-widgets/daterangepicker",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Datetimepicker"
+               },
+               {
+                  "text":"Touchspin",
+                  "href":"/form-widgets/touchspin",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Touchspin"
+               },
+               {
+                  "text":"Select2",
+                  "href":"/form-widgets/select2",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Select2"
+               },
+               {
+                  "text":"Switch",
+                  "href":"/form-widgets/switch",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Switch"
+               },
+               {
+                  "text":"Typeahead",
+                  "href":"/form-widgets/typeahead",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Typeahead"
+               },
+               {
+                  "text":"Clipboard",
+                  "href":"/form-widgets/clipboard",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Clipboard"
+               }
+            ]
+         },
+         {
+            "text":"Form Layout",
+            "href":"#",
+            "icon":"",
+            "target":"_self",
+            "title":"Form Layout",
+            "children":[
+               {
+                  "text":"Default Forms",
+                  "href":"/form-layout/default-form",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Default Forms"
+               },
+               {
+                  "text":"Form Wizard 1",
+                  "href":"/form-layout/form-wizard",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Form Wizard 1"
+               },
+               {
+                  "text":"Form Wizard 2",
+                  "href":"/form-layout/form-wizard-two",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Form Wizard 2"
+               },
+               {
+                  "text":"Form Wizard 3",
+                  "href":"/form-layout/form-wizard-three",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Form Wizard 3"
+               },
+               {
+                  "text":"Form Wizard 4",
+                  "href":"/form-layout/form-wizard-four",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Form Wizard 4"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "text":"Tables",
+      "href":"#",
+      "icon":"server",
+      "target":"_top",
+      "title":"Tables",
+      "children":[
+         {
+            "text":"Bootstrap Tables",
+            "href":"#",
+            "icon":"",
+            "target":"_self",
+            "title":"Bootstrap Tables",
+            "children":[
+               {
+                  "text":"Basic Tables",
+                  "href":"/bootstrap-tables/bootstrap-basic-table",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Basic Tables"
+               },
+               {
+                  "text":"Sizing Tables",
+                  "href":"/bootstrap-tables/bootstrap-sizing-table",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Sizing Tables"
+               },
+               {
+                  "text":"Border Tables",
+                  "href":"/bootstrap-tables/bootstrap-border-table",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Border Tables"
+               },
+               {
+                  "text":"Styling Tables",
+                  "href":"/bootstrap-tables/bootstrap-styling-table",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Styling Tables"
+               },
+               {
+                  "text":"Table components",
+                  "href":"/bootstrap-tables/table-components",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Table components"
+               }
+            ]
+         },
+         {
+            "text":"Data Tables",
+            "href":"#",
+            "icon":"",
+            "target":"_self",
+            "title":"Data Tables",
+            "children":[
+               {
+                  "text":"Basic Init",
+                  "href":"/data-tables/datatable-basic-init",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Basic Init"
+               },
+               {
+                  "text":"Advance Init",
+                  "href":"/data-tables/datatable-advance",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Advance Init"
+               },
+               {
+                  "text":"Styling",
+                  "href":"/data-tables/datatable-styling",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Styling"
+               },
+               {
+                  "text":"AJAX",
+                  "href":"/data-tables/datatable-ajax",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"AJAX"
+               },
+               {
+                  "text":"Server Side",
+                  "href":"/data-tables/datatable-server-side",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Server Side"
+               },
+               {
+                  "text":"Plug-in",
+                  "href":"/data-tables/datatable-plugin",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Plug-in"
+               },
+               {
+                  "text":"API",
+                  "href":"/data-tables/datatable-api",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"API"
+               },
+               {
+                  "text":"Data Sources",
+                  "href":"/data-tables/datatable-data-source",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Data Sources"
+               }
+            ]
+         },
+         {
+            "text":"Extension Data Tables",
+            "href":"#",
+            "icon":"",
+            "target":"_self",
+            "title":"Extension Data Tables",
+            "children":[
+               {
+                  "text":"Auto Fill",
+                  "href":"/extension-data-tables/datatable-ext-autofill",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Auto Fill"
+               },
+               {
+                  "text":"Basic Button",
+                  "href":"/extension-data-tables/datatable-ext-basic-button",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Basic Button"
+               },
+               {
+                  "text":"Column Reorder",
+                  "href":"/extension-data-tables/datatable-ext-col-reorder",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Column Reorder"
+               },
+               {
+                  "text":"Fixed Header",
+                  "href":"/extension-data-tables/datatable-ext-fixed-header",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Fixed Header"
+               },
+               {
+                  "text":"HTML 5 Export",
+                  "href":"/extension-data-tables/datatable-ext-html-5-data-export",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"HTML 5 Export"
+               },
+               {
+                  "text":"Key Table",
+                  "href":"/extension-data-tables/datatable-ext-key-table",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Key Table"
+               },
+               {
+                  "text":"Responsive",
+                  "href":"/extension-data-tables/datatable-ext-responsive",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Responsive"
+               },
+               {
+                  "text":"Row Reorder",
+                  "href":"/extension-data-tables/datatable-ext-row-reorder",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Row Reorder"
+               },
+               {
+                  "text":"Scroller",
+                  "href":"/extension-data-tables/datatable-ext-scroller",
+                  "icon":"",
+                  "target":"_self",
+                  "title":"Scroller"
+               }
+            ]
+         },
+         {
+            "text":"Js Grid Table",
+            "href":"/tables/jsgrid-table",
+            "icon":"",
+            "target":"_self",
+            "title":"Js Grid Table"
+         }
+      ]
+   },
+   {
+      "text":"Cards",
+      "href":"#",
+      "icon":"book",
+      "target":"_top",
+      "title":"Cards",
+      "children":[
+         {
+            "text":"Basic Card",
+            "href":"/cards/basic-card",
+            "icon":"",
+            "target":"_self",
+            "title":"Basic Card"
+         },
+         {
+            "text":"Creative Card",
+            "href":"/cards/creative-card",
+            "icon":"",
+            "target":"_self",
+            "title":"Creative Card"
+         },
+         {
+            "text":"Tabbed Card",
+            "href":"/cards/tabbed-card",
+            "icon":"",
+            "target":"_self",
+            "title":"Tabbed Card"
+         },
+         {
+            "text":"Draggable Card",
+            "href":"/cards/dragable-card",
+            "icon":"",
+            "target":"_self",
+            "title":"Draggable Card"
+         }
+      ]
+   },
+   {
+      "text":"Timeline",
+      "href":"#",
+      "icon":"sliders",
+      "target":"_top",
+      "title":"Timeline",
+      "children":[
+         {
+            "text":"Timeline 1",
+            "href":"/timeline/timeline-v-1",
+            "icon":"",
+            "target":"_self",
+            "title":"Timeline 1"
+         },
+         {
+            "text":"Timeline 2",
+            "href":"/timeline/timeline-v-2",
+            "icon":"",
+            "target":"_self",
+            "title":"Timeline 2"
+         },
+         {
+            "text":"Timeline 3",
+            "href":"/timeline/timeline-small",
+            "icon":"",
+            "target":"_self",
+            "title":"Timeline 3"
+         }
+      ]
+   },
+   {
+      "text":"Charts",
+      "href":"#",
+      "icon":"bar-chart",
+      "target":"_top",
+      "title":"Charts",
+      "children":[
+         {
+            "text":"Google Chart",
+            "href":"/charts/chart-google",
+            "icon":"",
+            "target":"_self",
+            "title":"Google Chart"
+         },
+         {
+            "text":"Sparkline Chart",
+            "href":"/charts/chart-sparkline",
+            "icon":"",
+            "target":"_self",
+            "title":"Sparkline Chart"
+         },
+         {
+            "text":"Flot Chart",
+            "href":"/charts/chart-flot",
+            "icon":"",
+            "target":"_self",
+            "title":"Flot Chart"
+         },
+         {
+            "text":"Radial Chart",
+            "href":"/charts/chart-radial",
+            "icon":"",
+            "target":"_self",
+            "title":"Radial Chart"
+         },
+         {
+            "text":"Knob Chart",
+            "href":"/charts/chart-knob",
+            "icon":"",
+            "target":"_self",
+            "title":"Knob Chart"
+         },
+         {
+            "text":"Morris Chart",
+            "href":"/charts/chart-morris",
+            "icon":"",
+            "target":"_self",
+            "title":"Morris Chart"
+         },
+         {
+            "text":"Chatjs Chart",
+            "href":"/charts/chartjs",
+            "icon":"",
+            "target":"_self",
+            "title":"Chatjs Chart"
+         },
+         {
+            "text":"Chartist Chart",
+            "href":"/charts/chartist",
+            "icon":"",
+            "target":"_self",
+            "title":"Chartist Chart"
+         },
+         {
+            "text":"Peity Chart",
+            "href":"/charts/chart-peity",
+            "icon":"",
+            "target":"_self",
+            "title":"Peity Chart"
+         }
+      ]
+   },
+   {
+      "text":"Maps",
+      "href":"#",
+      "icon":"map",
+      "target":"_top",
+      "title":"Maps",
+      "children":[
+         {
+            "text":"Maps JS",
+            "href":"/maps/map-js",
+            "icon":"",
+            "target":"_self",
+            "title":"Maps JS"
+         },
+         {
+            "text":"Vector Maps",
+            "href":"/maps/vector-map",
+            "icon":"",
+            "target":"_self",
+            "title":"Vector Maps"
+         }
+      ]
+   },
+   {
+      "text":"Email Templates",
+      "href":"#",
+      "icon":"printer",
+      "target":"_top",
+      "title":"Email Templates",
+      "children":[
+         {
+            "text":"Basic",
+            "href":"#",
+            "icon":"",
+            "target":"_self",
+            "title":"Basic",
+            "children":[
+               {
+                  "text":"Basic Email",
+                  "href":"/email-template/basic/basic-template",
+                  "icon":"",
+                  "target":"_blank",
+                  "title":"Basic Email"
+               },
+               {
+                  "text":"Basic With Header",
+                  "href":"/email-template/basic/email-header",
+                  "icon":"",
+                  "target":"_blank",
+                  "title":"Basic With Header"
+               }
+            ]
+         },
+         {
+            "text":"Ecommerce",
+            "href":"#",
+            "icon":"",
+            "target":"_self",
+            "title":"Ecommerce",
+            "children":[
+               {
+                  "text":"Email Template",
+                  "href":"/email-template/ecommerce/template-email",
+                  "icon":"",
+                  "target":"_blank",
+                  "title":"Email Template"
+               },
+               {
+                  "text":"Email Template 2",
+                  "href":"/email-template/ecommerce/template-email-2",
+                  "icon":"",
+                  "target":"_blank",
+                  "title":"Email Template 2"
+               },
+               {
+                  "text":"Ecommerce Email",
+                  "href":"/email-template/ecommerce/ecommerce-templates",
+                  "icon":"",
+                  "target":"_blank",
+                  "title":"Ecommerce Email"
+               },
+               {
+                  "text":"email-order-success",
+                  "href":"/email-template/ecommerce/email-order-success",
+                  "icon":"",
+                  "target":"_blank",
+                  "title":"email-order-success"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "text":"Editors",
+      "href":"#",
+      "icon":"git-pull-request",
+      "target":"_top",
+      "title":"Editors",
+      "children":[
+         {
+            "text":"Summer Note",
+            "href":"/editors/summernote",
+            "icon":"",
+            "target":"_self",
+            "title":"Summer Note"
+         },
+         {
+            "text":"CK editor",
+            "href":"/editors/ckeditor",
+            "icon":"",
+            "target":"_self",
+            "title":"CK editor"
+         },
+         {
+            "text":"MDE editor",
+            "href":"/editors/simple-mde",
+            "icon":"",
+            "target":"_self",
+            "title":"MDE editor"
+         },
+         {
+            "text":"ACE code editor",
+            "href":"/editors/ace-code-editor",
+            "icon":"",
+            "target":"_self",
+            "title":"ACE code editor"
+         }
+      ]
+   },
+   {
+      "text":"Users",
+      "href":"#",
+      "icon":"users",
+      "target":"_top",
+      "title":"Users",
+      "children":[
+         {
+            "text":"Users Profile",
+            "href":"/users/user-profile",
+            "icon":"",
+            "target":"_self",
+            "title":"Users Profile"
+         },
+         {
+            "text":"Users Edit",
+            "href":"/users/edit-profile",
+            "icon":"",
+            "target":"_self",
+            "title":"Users Edit"
+         },
+         {
+            "text":"Users Cards",
+            "href":"/users/user-cards",
+            "icon":"",
+            "target":"_self",
+            "title":"Users Cards"
+         }
+      ]
+   },
+   {
+      "text":"Calender",
+      "href":"#",
+      "icon":"calendar",
+      "target":"_top",
+      "title":"Calender",
+      "children":[
+         {
+            "text":"Full Calender Basic",
+            "href":"/calender/calendar",
+            "icon":"",
+            "target":"_self",
+            "title":"Full Calender Basic"
+         },
+         {
+            "text":"Full Calender Events",
+            "href":"/calender/calendar-event",
+            "icon":"",
+            "target":"_self",
+            "title":"Full Calender Events"
+         },
+         {
+            "text":"Full Calender Advance",
+            "href":"/calender/calendar-advanced",
+            "icon":"",
+            "target":"_self",
+            "title":"Full Calender Advance"
+         }
+      ]
+   },
+   {
+      "text":"Internationalization",
+      "href":"/internationalization",
+      "icon":"aperture",
+      "target":"_self",
+      "title":"Internationalization"
+   },
+   {
+      "text":"Gallery",
+      "href":"#",
+      "icon":"image",
+      "target":"_top",
+      "title":"Gallery",
+      "children":[
+         {
+            "text":"Gallery Grid",
+            "href":"/gallery/gallery",
+            "icon":"",
+            "target":"_self",
+            "title":"Gallery Grid"
+         },
+         {
+            "text":"Gallery Grid with Desc",
+            "href":"/gallery/gallery-with-description",
+            "icon":"",
+            "target":"_self",
+            "title":"Gallery Grid with Desc"
+         },
+         {
+            "text":"Masonry Gallery",
+            "href":"/gallery/masonry-gallery",
+            "icon":"",
+            "target":"_self",
+            "title":"Masonry Gallery"
+         },
+         {
+            "text":"Masonry Gallery Desc",
+            "href":"/gallery/masonry-gallery-with-disc",
+            "icon":"",
+            "target":"_self",
+            "title":"Masonry Gallery Desc"
+         },
+         {
+            "text":"Hover Effects",
+            "href":"/gallery/gallery-hover",
+            "icon":"",
+            "target":"_self",
+            "title":"Hover Effects"
+         }
+      ]
+   },
+   {
+      "text":"Email",
+      "href":"#",
+      "icon":"mail",
+      "target":"_top",
+      "title":"Email",
+      "children":[
+         {
+            "text":"Email App",
+            "href":"/email/email-application",
+            "icon":"",
+            "target":"_self",
+            "title":"Email App"
+         },
+         {
+            "text":"Email Compose",
+            "href":"/email/email-compose",
+            "icon":"",
+            "target":"_self",
+            "title":"Email Compose"
+         }
+      ]
+   },
+   {
+      "text":"Blog",
+      "href":"#",
+      "icon":"edit",
+      "target":"_top",
+      "title":"Blog",
+      "children":[
+         {
+            "text":"Blog Details",
+            "href":"/blog/blog",
+            "icon":"",
+            "target":"_self",
+            "title":"Blog Details"
+         },
+         {
+            "text":"Blog Single",
+            "href":"/blog/blog-single",
+            "icon":"",
+            "target":"_self",
+            "title":"Blog Single"
+         },
+         {
+            "text":"Add-Post",
+            "href":"/blog/add-post",
+            "icon":"",
+            "target":"_self",
+            "title":"Add-Post"
+         }
+      ]
+   },
+   {
+      "text":"Chat",
+      "href":"#",
+      "icon":"message-square",
+      "target":"_top",
+      "title":"Chat",
+      "children":[
+         {
+            "text":"Chat App",
+            "href":"/chat/chat",
+            "icon":"",
+            "target":"_self",
+            "title":"Chat App"
+         },
+         {
+            "text":"Video chat",
+            "href":"/chat/call-chat",
+            "icon":"",
+            "target":"_self",
+            "title":"Video chat"
+         }
+      ]
+   },
+   {
+      "text":"Social App",
+      "href":"/social-app",
+      "icon":"chrome",
+      "target":"_self",
+      "title":"Social App"
+   },
+   {
+      "text":"Job Search",
+      "href":"#",
+      "icon":"user-check",
+      "target":"_top",
+      "title":"Job Search",
+      "children":[
+         {
+            "text":"Cards view",
+            "href":"/job-search/job-cards-view",
+            "icon":"",
+            "target":"_self",
+            "title":"Cards view"
+         },
+         {
+            "text":"List View",
+            "href":"/job-search/job-list-view",
+            "icon":"",
+            "target":"_self",
+            "title":"List View"
+         },
+         {
+            "text":"Job Details",
+            "href":"/job-search/job-details",
+            "icon":"",
+            "target":"_self",
+            "title":"Job Details"
+         },
+         {
+            "text":"Apply",
+            "href":"/job-search/job-apply",
+            "icon":"",
+            "target":"_self",
+            "title":"Apply"
+         }
+      ]
+   },
+   {
+      "text":"Learning",
+      "href":"#",
+      "icon":"layers",
+      "target":"_top",
+      "title":"Learning",
+      "children":[
+         {
+            "text":"Learning List",
+            "href":"/learning/learning-list-view",
+            "icon":"",
+            "target":"_self",
+            "title":"Learning List"
+         },
+         {
+            "text":"Detailed Course",
+            "href":"/learning/learning-detailed",
+            "icon":"",
+            "target":"_self",
+            "title":"Detailed Course"
+         }
+      ]
+   },
+   {
+      "text":"FAQ",
+      "href":"/faq",
+      "icon":"help-circle",
+      "target":"_self",
+      "title":"FAQ"
+   },
+   {
+      "text":"Knowledgebase",
+      "href":"/knowledgebase",
+      "icon":"database",
+      "target":"_self",
+      "title":"Knowledgebase"
+   },
+   {
+      "text":"Support Ticket",
+      "href":"/support-ticket",
+      "icon":"headphones",
+      "target":"_self",
+      "title":"Support Ticket"
+   },
+   {
+      "text":"To-Do",
+      "href":"/to-do",
+      "icon":"mic",
+      "target":"_self",
+      "title":"To-Do"
+   },
+   {
+      "text":"Ecommerce",
+      "href":"#",
+      "icon":"shopping-bag",
+      "target":"_self",
+      "title":"Ecommerce",
+      "children":[
+         {
+            "text":"Product",
+            "href":"/ecommerce/product",
+            "icon":"",
+            "target":"_self",
+            "title":"Product"
+         },
+         {
+            "text":"Product Page",
+            "href":"/ecommerce/product-page",
+            "icon":"",
+            "target":"_self",
+            "title":"Product Page"
+         },
+         {
+            "text":"Product list",
+            "href":"/ecommerce/product-list",
+            "icon":"",
+            "target":"_self",
+            "title":"Product list"
+         },
+         {
+            "text":"Payment Details",
+            "href":"/ecommerce/payment-details",
+            "icon":"",
+            "target":"_self",
+            "title":"Payment Details"
+         },
+         {
+            "text":"Order History",
+            "href":"/ecommerce/order-history",
+            "icon":"",
+            "target":"_self",
+            "title":"Order History"
+         },
+         {
+            "text":"Invoice",
+            "href":"/ecommerce/invoice-template",
+            "icon":"",
+            "target":"_self",
+            "title":"Invoice"
+         },
+         {
+            "text":"Cart",
+            "href":"/ecommerce/cart",
+            "icon":"",
+            "target":"_self",
+            "title":"Cart"
+         },
+         {
+            "text":"Wishlist",
+            "href":"/ecommerce/list-wish",
+            "icon":"",
+            "target":"_self",
+            "title":"Wishlist"
+         },
+         {
+            "text":"Checkout",
+            "href":"/ecommerce/checkout",
+            "icon":"",
+            "target":"_self",
+            "title":"Checkout"
+         }
+      ]
+   },
+   {
+      "text":"Pricing",
+      "href":"/pricing",
+      "icon":"dollar-sign",
+      "target":"_self",
+      "title":"Pricing"
+   },
+   {
+      "text":"Sample Page",
+      "href":"/sample-page",
+      "icon":"file",
+      "target":"_self",
+      "title":"Sample Page"
+   },
+   {
+      "text":"Search Pages",
+      "href":"#",
+      "icon":"search",
+      "target":"_top",
+      "title":"Search Pages",
+      "children":[
+         {
+            "text":"Search Website",
+            "href":"/search-pages/search",
+            "icon":"",
+            "target":"_self",
+            "title":"Search Website"
+         },
+         {
+            "text":"Search Images",
+            "href":"/search-pages/search-images",
+            "icon":"",
+            "target":"_self",
+            "title":"Search Images"
+         },
+         {
+            "text":"Search Video",
+            "href":"/search-pages/search-video",
+            "icon":"",
+            "target":"_self",
+            "title":"Search Video"
+         }
+      ]
+   },
+   {
+      "text":"Error Pages",
+      "href":"#",
+      "icon":"alert-octagon",
+      "target":"_top",
+      "title":"Error Pages",
+      "children":[
+         {
+            "text":"Error 400",
+            "href":"/errors/400",
+            "icon":"",
+            "target":"_blank",
+            "title":"Error 400"
+         },
+         {
+            "text":"Error 401",
+            "href":"/errors/401",
+            "icon":"",
+            "target":"_blank",
+            "title":"Error 401"
+         },
+         {
+            "text":"Error 403",
+            "href":"/errors/403",
+            "icon":"",
+            "target":"_blank",
+            "title":"Error 403"
+         },
+         {
+            "text":"Error 404",
+            "href":"/errors/404",
+            "icon":"",
+            "target":"_blank",
+            "title":"Error 404"
+         },
+         {
+            "text":"Error 500",
+            "href":"/errors/500",
+            "icon":"",
+            "target":"_blank",
+            "title":"Error 500"
+         },
+         {
+            "text":"Error 503",
+            "href":"/errors/503",
+            "icon":"",
+            "target":"_blank",
+            "title":"Error 503"
+         }
+      ]
+   },
+   {
+      "text":"Authentication",
+      "href":"#",
+      "icon":"unlock",
+      "target":"_top",
+      "title":"Authentication",
+      "children":[
+         {
+            "text":"Login Simple",
+            "href":"/authentication/login",
+            "icon":"",
+            "target":"_blank",
+            "title":"Login Simple"
+         },
+         {
+            "text":"Login with Bg Image",
+            "href":"/authentication/login-image",
+            "icon":"",
+            "target":"_blank",
+            "title":"Login with Bg Image"
+         },
+         {
+            "text":"Login with Bg video",
+            "href":"/authentication/login-video",
+            "icon":"",
+            "target":"_blank",
+            "title":"Login with Bg video"
+         },
+         {
+            "text":"Register Simple",
+            "href":"/authentication/signup",
+            "icon":"",
+            "target":"_blank",
+            "title":"Register Simple"
+         },
+         {
+            "text":"Register with Bg Image",
+            "href":"/authentication/signup-image",
+            "icon":"",
+            "target":"_blank",
+            "title":"Register with Bg Image"
+         },
+         {
+            "text":"Register with Bg video",
+            "href":"/authentication/signup-video",
+            "icon":"",
+            "target":"_blank",
+            "title":"Register with Bg video"
+         },
+         {
+            "text":"Unlock User",
+            "href":"/authentication/unlock",
+            "icon":"",
+            "target":"_blank",
+            "title":"Unlock User"
+         },
+         {
+            "text":"Forget Password",
+            "href":"/authentication/forget-password",
+            "icon":"",
+            "target":"_blank",
+            "title":"Forget Password"
+         },
+         {
+            "text":"Reset Password",
+            "href":"/authentication/reset-password",
+            "icon":"",
+            "target":"_blank",
+            "title":"Reset Password"
+         }
+      ]
+   },
+   {
+      "text":"Coming Soon",
+      "href":"#",
+      "icon":"briefcase",
+      "target":"_top",
+      "title":"Coming Soon",
+      "children":[
+         {
+            "text":"Coming Simple",
+            "href":"/coming-soon/comingsoon",
+            "icon":"",
+            "target":"_blank",
+            "title":"Coming Simple"
+         },
+         {
+            "text":"Coming with Bg Image",
+            "href":"/coming-soon/comingsoon-bg-img",
+            "icon":"",
+            "target":"_blank",
+            "title":"Coming with Bg Image"
+         },
+         {
+            "text":"Coming with Bg video",
+            "href":"/coming-soon/comingsoon-bg-video",
+            "icon":"",
+            "target":"_blank",
+            "title":"Coming with Bg video"
+         }
+      ]
+   },
+   {
+      "text":"Maintenance",
+      "href":"/maintenance",
+      "icon":"settings",
+      "target":"_blank",
+      "title":"Maintenance"
+   }
+]

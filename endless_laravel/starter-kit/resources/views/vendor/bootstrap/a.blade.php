@@ -1,0 +1,1 @@
+<a href="{{@$href}}" class="{{@$class}}" id="{{@$id}}" type="{{@$type}}" {{@$extra}}>{{@$slot}}</a>

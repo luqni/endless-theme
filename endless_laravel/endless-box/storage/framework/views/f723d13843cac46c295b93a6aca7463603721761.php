@@ -1,0 +1,1 @@
+<?php /**PATH /home/ekta/backup/html Theme/laravel endless/endless-box/resources/views/footervarview.blade.php ENDPATH**/ ?>

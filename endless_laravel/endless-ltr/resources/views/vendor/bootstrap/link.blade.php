@@ -1,0 +1,1 @@
+<link rel="@if(@$rel) {{@$rel}} @else stylesheet @endif" type="@if(@$type) {{@$type}} @else text/css @endif" href="{{@$slot}}">

@@ -1,0 +1,1 @@
+<input class="{{@$class}}" id="{{@$id}}" type="{{$type}}" value="{{$value}}" {{@$extra}}>
